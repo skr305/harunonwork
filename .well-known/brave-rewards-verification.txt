@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: harunon.work
+Token: 53cdd983a541d3ec9148a86119ee09096445700083939c3a5fb595526722f922
