@@ -47,10 +47,16 @@
         <sui-table-cell><sui-progress progress size="small" percent="40" />
         </sui-table-cell>
       </sui-table-row>
+            <sui-table-row>
+        <sui-table-cell>Flutter(Dart)
+        </sui-table-cell>
+        <sui-table-cell><sui-progress progress size="small" percent="30" />
+        </sui-table-cell>
+      </sui-table-row>
       <sui-table-row>
         <sui-table-cell>Other
         </sui-table-cell>
-        <sui-table-cell>Slack, Chatwork, Trello, Backlog, Git, SourceTree
+        <sui-table-cell>Slack, Chatwork, Trello, Asana, esa, Backlog, Git, SourceTree
         </sui-table-cell>
       </sui-table-row>
     </sui-table-body>

@@ -10,8 +10,8 @@
     <a is="sui-label" href="https://www.amazon.co.jp/gp/registry/wishlist/15H9T1D76B386/ref=nav_wishlist_lists_1" target="_blank" > 
     <span><i class="fab fa-amazon"></i></span> wishlist
     </a>
-    <a is="sui-label" href="https://misskey.io/@harunon" target="_blank">
-    <span><i class="fab fa-mastodon"></i></span> Misskey
+    <a is="sui-label" href="https://keybase.io/harunon" target="_blank">
+    <span><i class="fab fa-keybase"></i></span> Keybase
     </a>
     
 </div>
