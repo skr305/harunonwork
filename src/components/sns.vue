@@ -1,6 +1,6 @@
 <template>
 <div>
-    <sui-message info>Follow me!</sui-message>
+    <sui-message info>🥺Follow me!🥺</sui-message>
     <a is="sui-label" href="https://twitter.com/harunon_system" target="_blank">
     <span><i class="fab fa-twitter"></i></span> Twitter
     </a>
@@ -25,6 +25,7 @@ export default {
 </script>
 
 <style scoped>
+
 li{
     list-style: none;
 }

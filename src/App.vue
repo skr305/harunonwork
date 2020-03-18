@@ -1,37 +1,17 @@
 <template>
-  <div id="app">
-    <card/>
-    <skill />
-    <sns />
-    <contact />
-  </div>
+<router-view/>
 </template>
 
 <script>
-import card from './components/card.vue'
-import sns from './components/sns.vue'
-import skill from './components/skill.vue'
-import contact from './components/contact.vue'
 export default {
   name: 'app',
   components: {
-    card,
-    skill,
-    sns,
-    contact
+    
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Meiryo, "Hiragino Kaku Gothic Pro W3", Courier New, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #fff;
-  margin-top: 60px;
-}
 html{
   width: 80%;
   margin: 10px auto;
@@ -44,5 +24,4 @@ ui.header{
 body{
   background: 0%;
 }
-
 </style>

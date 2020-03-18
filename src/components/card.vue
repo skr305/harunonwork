@@ -38,7 +38,7 @@
     </li>
     <li>
     <sui-card>
-      <a href="https://harunonsystem.github.io/profile/donate.html" target="_blank"><sui-image src="https://harunonsystem.github.io/image/harunon.png"/></a>
+     <router-link to="../Donate"><sui-image src="https://harunonsystem.github.io/image/harunon.png"/></router-link>
       <sui-card-content>
         <sui-card-header><a>Donate</a></sui-card-header>
         <sui-card-meta>
