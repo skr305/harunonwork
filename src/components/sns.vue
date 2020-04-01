@@ -1,7 +1,7 @@
 <template>
 <div>
     <sui-message info>🥺Follow me!🥺</sui-message>
-    <a is="sui-label" href="https://twitter.com/harunon_system" target="_blank">
+    <a is="sui-label" href="https://twitter.com/harunonsystem" target="_blank">
     <span><i class="fab fa-twitter"></i></span> Twitter
     </a>
     <a is="sui-label" href="https://github.com/harunonsystem" target="_blank" >
