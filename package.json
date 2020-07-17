@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "npm": "^6.14.6",
     "semantic-ui-vue": "^0.8.1",
     "vue": "^2.6.11",
