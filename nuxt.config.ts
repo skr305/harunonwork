@@ -32,7 +32,7 @@ export default defineNuxtConfig({
         {
           hid: 'og:image',
           property: 'og:image',
-          content: 'https://harunonwork.pages.dev/public/obp.png',
+          content: 'https://harunonwork.pages.dev/obp.png',
         }, //絶対パスで指定
         { hid: 'og:title', property: 'og:title', content: 'harunon portfolio' },
         {
