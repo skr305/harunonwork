@@ -1,0 +1,23 @@
+{
+  // "eslint.validate": [
+  //   {
+  //     "language": "javascript",
+  //     "autoFix": true
+  //   },
+  //   "javascriptreact",
+  //   {
+  //     "language": "typescript",
+  //     "autoFix": true
+  //   },
+  //   {
+  //     "language": "vue",
+  //     "autoFix": true
+  //   }
+  // ],
+  // "eslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
