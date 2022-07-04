@@ -26,13 +26,13 @@ export default defineNuxtConfig({
         {
           hid: 'og:url',
           property: 'og:url',
-          content: 'https://harunonsystem.com',
+          content: 'https://harunonwork.pages.dev',
         }, //絶対パスで指定
         { hid: 'og:type', property: 'og:type', content: 'website' },
         {
           hid: 'og:image',
           property: 'og:image',
-          content: 'https://harunonsystem.com/obp.png',
+          content: 'https://harunonwork.pages.dev/public/obp.png',
         }, //絶対パスで指定
         { hid: 'og:title', property: 'og:title', content: 'harunon portfolio' },
         {
@@ -49,7 +49,7 @@ export default defineNuxtConfig({
     // Docs: https://tailwindcss.nuxtjs.org
     '@nuxtjs/tailwindcss',
   ],
-  
+
   // buildModules: ['@nuxt/image'],
   // image: {
   //   domains: ['https://twitter.com'],
